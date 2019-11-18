@@ -1,0 +1,11 @@
+D:\mbdfa\Documents\PluralSight\C# Fundamentals\Primes\bin\Debug\netcoreapp2.2\Primes.deps.json
+D:\mbdfa\Documents\PluralSight\C# Fundamentals\Primes\bin\Debug\netcoreapp2.2\Primes.runtimeconfig.json
+D:\mbdfa\Documents\PluralSight\C# Fundamentals\Primes\bin\Debug\netcoreapp2.2\Primes.runtimeconfig.dev.json
+D:\mbdfa\Documents\PluralSight\C# Fundamentals\Primes\bin\Debug\netcoreapp2.2\Primes.dll
+D:\mbdfa\Documents\PluralSight\C# Fundamentals\Primes\bin\Debug\netcoreapp2.2\Primes.pdb
+D:\mbdfa\Documents\PluralSight\C# Fundamentals\Primes\obj\Debug\netcoreapp2.2\Primes.csprojAssemblyReference.cache
+D:\mbdfa\Documents\PluralSight\C# Fundamentals\Primes\obj\Debug\netcoreapp2.2\Primes.csproj.CoreCompileInputs.cache
+D:\mbdfa\Documents\PluralSight\C# Fundamentals\Primes\obj\Debug\netcoreapp2.2\Primes.AssemblyInfoInputs.cache
+D:\mbdfa\Documents\PluralSight\C# Fundamentals\Primes\obj\Debug\netcoreapp2.2\Primes.AssemblyInfo.cs
+D:\mbdfa\Documents\PluralSight\C# Fundamentals\Primes\obj\Debug\netcoreapp2.2\Primes.dll
+D:\mbdfa\Documents\PluralSight\C# Fundamentals\Primes\obj\Debug\netcoreapp2.2\Primes.pdb
